@@ -22,6 +22,10 @@ This project aims to improve the robustness and generalization of face recogniti
 - **Evaluation:** The effectiveness of the proposed method will be quantitatively evaluated by comparing the face recognition accuracy, precision, recall, and F1-score before and after applying Random Erasing. We will use widely recognized benchmarks such as the Labeled Faces in the Wild (LFW) and YouTube Faces (YTF) datasets for this purpose.
 - **Success Metric:** Achieving a statistically significant improvement in accuracy and F1-score on the LFW and YTF datasets, demonstrating the model's enhanced robustness to occlusions and variations in facial appearance.
 
+## References
+- Labelled Faces in the Wild (LFW) Dataset: https://www.kaggle.com/datasets/jessicali9530/lfw-dataset
+- Yale Face Database: https://www.kaggle.com/datasets/olgabelitskaya/yale-face-database
+
 ## Milestone by April 12th
 - Complete the integration of Random Erasing with a baseline face recognition model and conduct preliminary experiments on a subset of the LFW dataset to assess its impact.
 
